@@ -12,7 +12,7 @@ Tasnim tried to open the book, but mysteriously it was locked shut.
 
 On the back Abdallah noticed the words “Bismillah”.
 
-“Look”, said Abdallah, it says “Bismillah” on the back of the book.
+“Look!”, said Abdallah, “it says Bismillah on the back of the book.”
 
 Tasnim and Abdallah both said: “Bismillah”.
 
