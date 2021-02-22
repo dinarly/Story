@@ -1,7 +1,7 @@
 # DINARLY Story
 The DINARLY e-learning stories featuring Tasnim, Abdallah, Ai, Zhao, Sakura and Akio — the friendly dragons.
 
-Available both as interactive DINARLY e-learning and also in e-book formats.
+Available both as interactive DINARLY e-learning (3d or comic book modes) and also in e-book formats.
 
 ## Introduction
 One day Abdallah and Tasnim — the friendly dragons — were digging for treasure. They had managed to find a treasure chest.
