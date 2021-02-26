@@ -76,6 +76,6 @@ Ai said: “Would you both like to learn about Artificial Intelligence?”
 
 Abdallah and Tasnim both nodded: “Yes please!”
 
-Ai smiled delightfully and said: “We will begin by learning about the structures inside the brain – called neurons.”
+Ai smiled delightfully and said: “We will begin by learning about the structures inside the brain — called neurons.”
 
 And this is how Abdallah and Tasnim started their learning journey with Artificial Intelligence.
