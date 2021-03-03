@@ -3,8 +3,6 @@ The DINARLY e-learning stories featuring Tasnim, Abdallah, Ai, Zhao, Sakura and 
 
 Available both as interactive DINARLY e-learning (3d or comic book modes) and also in e-book formats.
 
-The character names will be fully customisable and can be chosen to personalise the experience.
-
 Once translations into other locales have been completed — they will be pinned to IPFS.
 
 Within DINARLY all languages are treated equally by design.
