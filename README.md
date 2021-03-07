@@ -3,7 +3,7 @@ The DINARLY e-learning stories featuring Tasnim, Abdallah, Ai, Zhao, Sakura and 
 
 Available both as interactive DINARLY e-learning (3d or comic book modes) and also in e-book formats.
 
-The plan is to have both interactive and pre-rendered visualisations — and also — videogames. These will be implemented using WebAssembly using the Godot and Bevy game engines.
+The plan is to have both interactive and pre-rendered visualisations — and also — videogames. These will be implemented using WebAssembly using the Godot and Bevy game engines. Additionally, Blender 3d will be used for pre-rendered visuals.
 
 [![Interactive visualisations](/img/visualisations.jpg)](https://www.youtube.com/watch?v=XoGHKp3PiHQ "Interactive visualisations")
 
