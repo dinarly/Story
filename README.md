@@ -98,4 +98,4 @@ The following individuals have inspired this project through their incredible co
 
 * Shigeru Miyamoto (Ocarina of Time is the reason I started writing code)
 * Miguel Gomez (Interactive Simulation of Water Surfaces within Game Programming Gems helped me to build my first 3d app back in 2002)
-* Shaykh Abdalqadir as-Sufi (leader of the Darqawi-Shadhili-Qadiri Tariqa; author of The Darqawi Way — the wird is a most beloved gift)
+* Shaykh Abdalqadir as-Sufi (leader of the Darqawi-Shadhili-Qadiri Tariqa; the chain of transmission of the letters within The Darqawi Way — the wird is a most beloved gift)
