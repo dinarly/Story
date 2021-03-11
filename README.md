@@ -96,6 +96,6 @@ And this is how Abdallah and Tasnim started their learning journey with Artifici
 
 The following individuals have inspired this project through their incredible contributions and have therefore helped to carve the idea into my mind of what I must build and how to build it. They have my sincere thanks:
 
-* Shigeru Miyamoto (Ocarina of Time is the reason I started writing code)
+* Shigeru Miyamoto (Ocarina of Time was the reason I started writing code)
 * Miguel Gomez (Interactive Simulation of Water Surfaces within Game Programming Gems helped me to build my first 3d app back in 2002)
 * Shaykh Abdalqadir as-Sufi (leader of the Darqawi-Shadhili-Qadiri Tariqa; the chain of transmission of the letters within The Darqawi Way — the wird is a most beloved gift)
