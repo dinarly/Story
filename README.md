@@ -82,7 +82,7 @@ Abdallah and Tasnim looked in the lake to see the cute robot dog joyfully swimmi
 
 Ai explained: “My robot dog is designed to help rescue people in an emergency!”
 
-Abdallah and Tasnim said “Woow! Artificial Intelligence is amazing!”
+Abdallah and Tasnim said: “Woow! Artificial Intelligence is amazing!”
 
 Ai said: “Would you both like to learn about Artificial Intelligence?”
 
