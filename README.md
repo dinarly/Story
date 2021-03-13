@@ -140,7 +140,7 @@ Zhao beamed and said: “From the large scale – the stars in space – which e
 
 Abdallah smiled: “I want to learn about Quantum Mechanics!”
 
-“Me too” said Tasnim.
+“Me too!” said Tasnim.
 
 Zhao said: “We will begin by learning about waves and wave functions”.
 
