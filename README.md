@@ -92,6 +92,60 @@ Ai smiled delightfully and said: “We will begin by learning about the structur
 
 And this is how Abdallah and Tasnim started their learning journey with Artificial Intelligence.
 
+## Introduction to Quantum Mechanics
+
+One day Abdallah and Tasnim – the friendly dragons – were in the forest – looking up at the night sky.
+
+They were watching a meteor shower.
+
+Suddenly there was a booming, thunderous, roaring sound.
+
+The ground shook.
+
+Abdallah and Tasnim fell to the ground and Abdallah dropped the old book.
+
+As if by magic the book suddenly opened.
+
+The most beloved Compendium opened up and another friendly dragon – Zhao – had appeared.
+
+Abdallah, Tasnim and Zhao performed the traditional cute friendly dragon greeting.
+
+This greeting is a dance with lots of giggling and laughter.
+
+Abdallah and Tasnim fell down laughing from all of the silly dancing.
+
+Zhao pointed at the crater in the forest: “This meteorite is very old. It was created at the beginning of the solar system.”
+
+Abdallah said: “What is the solar system?”
+
+Tasnim said: “I know!!”
+
+Abdallah looked surprised.
+
+Tasnim had beautiful dreams carved into her mind – inspired by the authors of brilliant books she had read at the most beloved library.
+
+Tasnim explained: “The solar system contains the Sun and the Earth – where we live.”
+
+“Also other planets, moons, meteorites, comets and asteroids.”
+
+Zhao nodded in agreement: “I am writing a book about Quantum Mechanics.”
+
+Abdallah looked confused.
+
+Tasnim told Abdallah: “Do not worry Abdallah. With the right intention we can both learn about Quantum Mechanics. It will be fun!”
+
+Zhao beamed and said: “From the large scale – the stars in space – which emit light through nuclear fusion – down to the small scale – the molecules within our own bodies…”
+
+“Quantum Mechanics plays a role in everything around us.”
+
+Abdallah smiled: “I want to learn about Quantum Mechanics!”
+
+“Me too” said Tasnim.
+
+Zhao said: “We will begin by learning about waves and wave functions”.
+
+And this is how Abdallah and Tasnim started their learning journey with Quantum Mechanics.
+
 ## Inspirations
 
 The following individuals have inspired this project through their incredible contributions and have therefore helped to carve the idea into my mind of what I must build and how to build it. They have my sincere thanks:
