@@ -11,7 +11,7 @@ The plan is to have both interactive and pre-rendered visualisations — and als
 
 The target hardware for DINARLY Story will include low cost Linux devices like the Raspberry Pi 4 and the PiBoy DMG — to more powerful Windows 10 devices — such as the AYA NEO (6-core AMD Ryzen 5 4500U Mobile Processor with Radeon Graphics).
 
-The original concept app was coded in C++ using Qt 5.14.2, but the app is now being actively rewritten in Rust.
+The original concept app was coded in C++ using Qt 5.14.2, but the app is now being actively rewritten in Rust. Once the Rust implementation is complete, the C++ prototype will be discarded. The C++ prototype remains for the purpose of testing.
 
 Within DINARLY all languages are treated equally by design.
 
