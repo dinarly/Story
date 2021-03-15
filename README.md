@@ -162,7 +162,7 @@ Abdallah gave his beaker of the finest fruit drink to the poor homeless dragon.
 
 Tasnim handed over her lunch to this sad dragon.
 
-The poor homeless dragon smiled and said “Thank you both.”
+The poor homeless dragon smiled and said: “Thank you both.”
 
 As if by magic the old book suddenly opened along with the Compendium and another friendly dragon – Sakura – had appeared.
 
