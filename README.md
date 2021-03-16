@@ -5,6 +5,8 @@ Available both as interactive DINARLY e-learning (3d or comic book modes) and al
 
 The initial courses will be focused on: Artificial Intelligence, Quantum Mechanics, Coding and Mathematics.
 
+Join Abdallah and Tasnim – the friendly dragons – on their learning journey as they overcome many challenges. Abdallah will master these subjects and overcome his learning difficulties, whilst Tasnim will refine her existing knowledge. Both friendly dragons will become titans in the fields of Artificial Intelligence, Quantum Mechanics, Coding and Mathematics.
+
 The plan is to have both interactive and pre-rendered visualisations — and also — videogames. These will be implemented using WebAssembly using the Godot and Bevy game engines. Additionally, Blender 3d will be used for pre-rendered visuals.
 
 [![Interactive visualisations](/img/visualisations.jpg)](https://www.youtube.com/watch?v=XoGHKp3PiHQ "Interactive visualisations")
