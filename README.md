@@ -266,7 +266,7 @@ And this is how Abdallah and Tasnim started their learning journey with Mathemat
 
 ## Inspirations
 
-The following individuals have inspired this project through their incredible contributions and have therefore helped to carve the idea into my mind of what I must build and how to build it. They have my sincere thanks:
+The following people have inspired this project through their incredible contributions and have therefore helped to carve the idea into my mind of what I must build and how to build it. They have my sincere thanks:
 
 * Shigeru Miyamoto (Ocarina of Time was the reason I started writing code)
 * Nintendo of America (replied to my email when I was 14, when I asked them "what [did] I need to learn for making videogames?"; they guided me to learn C++/OpenGL)
