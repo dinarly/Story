@@ -18,6 +18,7 @@ The original concept app was coded in C++ using Qt 5.14.2, but the app is now be
 The new components are as follows:
 * The Rust app; [infatuAI-Web](https://github.com/infatuAI/infatuAI-Web)
 * The React UI; [infatuAI-UI](https://github.com/infatuAI/infatuAI-UI)
+* The backend orchestrator; [Sheikah](https://github.com/dinarly/Sheikah)
 * The Artwork; [Art](https://github.com/dinarly/Art)
 
 These various components are being built or released into the open gradually.
