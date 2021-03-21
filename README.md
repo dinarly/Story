@@ -15,6 +15,13 @@ The target hardware for DINARLY Story will include low cost videogame consoles r
 
 The original concept app was coded in C++ using Qt 5.14.2, but the app is now being actively rewritten in Rust. Once the Rust implementation is complete, the C++ prototype will be discarded. The C++ prototype remains for the purpose of testing.
 
+The new components are as follows:
+* The Rust app; [infatuAI-Web](https://github.com/infatuAI/infatuAI-Web)
+* The React UI; [infatuAI-UI](https://github.com/infatuAI/infatuAI-UI)
+* The Artwork; [Art](https://github.com/dinarly/Art)
+
+These various components are being built or released into the open gradually.
+
 Within DINARLY all languages are treated equally by design.
 
 Once translations into other locales have been completed — they will be pinned to IPFS.
