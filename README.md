@@ -16,10 +16,10 @@ The target hardware for DINARLY Story will include low cost videogame consoles r
 The original concept app was coded in C++ using Qt 5.14.2, but the app is now being actively rewritten in Rust. Once the Rust implementation is complete, the C++ prototype will be discarded. The C++ prototype remains for the purpose of testing.
 
 The new components are as follows:
-* The Rust app; [infatuAI-Web](https://github.com/infatuAI/infatuAI-Web)
-* The React UI; [infatuAI-UI](https://github.com/infatuAI/infatuAI-UI)
-* The backend orchestrator; [Sheikah](https://github.com/dinarly/Sheikah)
-* The Artwork; [Art](https://github.com/dinarly/Art)
+* The Rust app; [infatuAI-Web](https://github.com/infatuAI/infatuAI-Web) — essentially a 3d web browser licensed under the MPLv2.
+* The React UI; [infatuAI-UI](https://github.com/infatuAI/infatuAI-UI) — user interface licensed under the AGPLv3.
+* The backend orchestrator; [Sheikah](https://github.com/dinarly/Sheikah) — Elixir/Phoenix LiveView and GenServer licensed under the AGPLv3.
+* The Artwork; [Art](https://github.com/dinarly/Art) — animated artwork and initial rough sketches licensed under the Creative Commons Attribution ShareAlike.
 
 These various components are being built or released into the open gradually.
 
