@@ -272,6 +272,52 @@ Abdallah and Tasnim both nodded: “Yes please!!”
 
 And this is how Abdallah and Tasnim started their learning journey with Mathematics.
 
+## Introduction to Blockchain
+
+One day Abdallah and Tasnim — the friendly dragons — were in the marketplace.
+
+The prices of all of the goods had gone up!
+
+As if by magic the book suddenly opened.
+
+The most beloved Compendium opened up and another friendly dragon – Sakura – had appeared.
+
+Abdallah, Tasnim and Sakura performed the traditional cute friendly dragon greeting.
+
+This greeting is a dance with lots of giggling and laughter.
+
+Abdallah and Tasnim fell down laughing from all of the silly whirling.
+
+Sakura said: “I am running a workshop on Blockchain – and – how to attach gold and silver coins to a blockchain.”
+
+Abdallah said: “What is a blockchain?”
+
+Tasnim said: “I know!!”
+
+Abdallah looked surprised. Tasnim had a habit of building a portfolio of blockchain assets.
+
+Tasnim explained: “When a central bank prints money it devalues the currency and therefore reduces our purchasing power. This means we can buy less goods with the same amount of money.”
+
+“However – Blockchain is based on a rigorous cryptographic algorithm based on sound mathematics.”
+
+“Blockchain is an alternative monetary system, where you cannot simply print endless units of currency.”
+
+Sakura nodded and Abdallah looked confused!
+
+Tasnim said: “Do not worry Abdallah. With the right intention we can both learn about Blockchain. It will be fun!”
+
+Abdallah smiled!
+
+Sakura smiled blissfully: “Blockchain is a mathematically rigorous and beautiful way to represent money, which has other important uses too!”
+
+Abdallah said: “I want to learn about Blockchain!”
+
+“Me too” said Tasnim.
+
+Sakura said: “We will begin by learning how Blockchain works.”
+
+And this is how Abdallah and Tasnim started their learning journey with Blockchain.
+
 ## Inspirations
 
 The following people have inspired this project through their incredible contributions and have therefore helped to carve the idea into my mind of what I must build and how to build it. They have my sincere thanks:
