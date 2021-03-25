@@ -304,6 +304,10 @@ Tasnim explained: “When a central bank prints money it devalues the currency a
 
 Sakura nodded and Abdallah looked confused!
 
+Tasnim explained: “Cryptography is a branch of Mathematics which is very important and vital in our everyday lives.”
+
+Abdallah still looked confused!
+
 Tasnim said: “Do not worry Abdallah. With the right intention we can both learn about Blockchain. It will be fun!”
 
 Abdallah smiled!
