@@ -322,6 +322,52 @@ Sakura said: “We will begin by learning how Blockchain works.”
 
 And this is how Abdallah and Tasnim started their learning journey with Blockchain.
 
+## Introduction to Cybersecurity
+
+One day Abdallah and Tasnim — the friendly dragons — were at the gym. They were doing an intense abs workout.
+
+After the workout Abdallah and Tasnim both picked up their games consoles.
+
+They started playing a game.
+
+A message appeared on Abdallah’s game.
+
+The message stated: “You have been hacked! You must download an app. Otherwise you will lose your saved games!”
+
+Abdallah said: “Oh no!”
+
+As if by magic the old book opened along with the delightful Compendium — and — another friendly dragon — Ai — had appeared.
+
+Tasnim, Abdallah and Ai then performed the traditional cute friendly dragon greeting.
+
+This greeting is a dance with lots of giggling and laughter.
+
+Abdallah and Tasnim fell down laughing from the dreamy shimmying.
+
+Ai said: “I am starting an annual Cybersecurity conference.”
+
+Abdallah said: “What is Cybersecurity?”
+
+Tasnim said: “I know.”
+
+Abdallah looked surprised. Tasnim had attended many Cybersecurity conferences and delivered talks on defending against cyber attacks.
+
+Tasnim explained: “Cybersecurity is protecting devices from damage, disruption or theft of data.”
+
+Abdallah looked confused!
+
+Tasnim explained: “The message on your game is a scam! A bad dragon is trying to hack your console.”
+
+“What should I do?!” said Abdallah.
+
+Ai said: “Do not worry Abdallah — I will teach you both about Cybersecurity — and — how to defend yourselves from cyber attacks.”
+
+Abdallah and Tasnim shouted: “Woow! Cybersecurity is awesome! Please teach us!”
+
+Ai said: “We will begin by learning about packets of data.”
+
+And this is how Abdallah and Tasnim started their learning journey with Cybersecurity.
+
 ## Inspirations
 
 The following people have inspired this project through their incredible contributions and have therefore helped to carve the idea into my mind of what I must build and how to build it. They have my sincere thanks:
