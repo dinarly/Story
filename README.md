@@ -5,7 +5,7 @@ Available both as interactive DINARLY e-learning (3d or comic book modes) and al
 
 The initial courses will be focused on: Artificial Intelligence, Quantum Mechanics, Coding, Mathematics, Blockchain, Cybersecurity, Semiconductors, Shakespeare, Judo and Conservation.
 
-Join Abdallah and Tasnim – the friendly dragons – on their learning journey as they overcome many challenges. Abdallah will master these subjects and overcome his learning difficulties, whilst Tasnim will refine her existing knowledge. Both friendly dragons will become titans in the fields of Artificial Intelligence, Quantum Mechanics, Coding, Mathematics, Blockchain, Cybersecurity, Semiconductors, Shakespeare, Judo and Conservation.
+Join Abdallah and Tasnim — the friendly dragons — on their learning journey as they overcome many challenges. Abdallah will master these subjects and overcome his learning difficulties, whilst Tasnim will refine her existing knowledge. Both friendly dragons will become titans in the fields of Artificial Intelligence, Quantum Mechanics, Coding, Mathematics, Blockchain, Cybersecurity, Semiconductors, Shakespeare, Judo and Conservation.
 
 The plan is to have both interactive and pre-rendered visualisations — and also — videogames. These will be implemented using WebAssembly using the Godot and Bevy game engines. Additionally, Blender 3d will be used for pre-rendered visuals.
 
@@ -64,7 +64,7 @@ Tasnim was holding the old book, which she then opened to reveal the most belove
 
 Abdallah closed his eyes and randomly chose a book from the wonderful Compendium.
 
-As if by magic — another friendly dragon —  Ai — had appeared.
+As if by magic — another friendly dragon — Ai — had appeared.
 
 Tasnim, Abdallah and Ai then performed the traditional cute friendly dragon greeting.
 
@@ -108,7 +108,7 @@ And this is how Abdallah and Tasnim started their learning journey with Artifici
 
 ## Introduction to Quantum Mechanics
 
-One day Abdallah and Tasnim – the friendly dragons – were in the forest – looking up at the night sky.
+One day Abdallah and Tasnim — the friendly dragons — were in the forest — looking up at the night sky.
 
 They were watching a meteor shower.
 
@@ -120,7 +120,7 @@ Abdallah and Tasnim fell to the ground and Abdallah dropped the old book.
 
 As if by magic the book suddenly opened.
 
-The most beloved Compendium opened up and another friendly dragon – Zhao – had appeared.
+The most beloved Compendium opened up and another friendly dragon — Zhao — had appeared.
 
 Abdallah, Tasnim and Zhao performed the traditional cute friendly dragon greeting.
 
@@ -136,9 +136,9 @@ Tasnim said: “I know!!”
 
 Abdallah looked surprised.
 
-Tasnim had beautiful dreams carved into her mind – inspired by the authors of brilliant books she had read at the most beloved library.
+Tasnim had beautiful dreams carved into her mind — inspired by the authors of brilliant books she had read at the most beloved library.
 
-Tasnim explained: “The solar system contains the Sun and the Earth – where we live.”
+Tasnim explained: “The solar system contains the Sun and the Earth — where we live.”
 
 “Also other planets, moons, meteoroids, comets and asteroids.”
 
@@ -148,7 +148,7 @@ Abdallah looked confused.
 
 Tasnim told Abdallah: “Do not worry Abdallah. With the right intention we can both learn about Quantum Mechanics. It will be fun!”
 
-Zhao beamed and said: “From the large scale – the stars in space – which emit light through nuclear fusion – down to the small scale – the molecules within our own bodies…”
+Zhao beamed and said: “From the large scale — the stars in space — which emit light through nuclear fusion — down to the small scale — the molecules within our own bodies…”
 
 “Quantum Mechanics plays a role in everything around us.”
 
@@ -162,7 +162,7 @@ And this is how Abdallah and Tasnim started their learning journey with Quantum 
 
 ## Introduction to Coding
 
-One day Abdallah and Tasnim – the friendly dragons – were visiting the most beloved library.
+One day Abdallah and Tasnim — the friendly dragons — were visiting the most beloved library.
 
 They found a sad and lonely dragon lying on the floor outside.
 
@@ -174,7 +174,7 @@ Tasnim handed over her lunch to this sad dragon.
 
 The poor homeless dragon smiled and said: “Thank you both.”
 
-As if by magic the old book suddenly opened along with the Compendium and another friendly dragon – Sakura – had appeared.
+As if by magic the old book suddenly opened along with the Compendium and another friendly dragon — Sakura — had appeared.
 
 Abdallah, Tasnim, Sakura and the homeless dragon performed the traditional cute friendly dragon greeting.
 
@@ -196,9 +196,9 @@ Tasnim explained: “Coding allows us to instruct a computer to perform a specif
 
 Sakura nodded in agreement.
 
-“In my workshop we will build a geospatial app to help feed the homeless dragons – using a few Coding languages – such as: Elixir, JavaScript and Python.”
+“In my workshop we will build a geospatial app to help feed the homeless dragons — using a few Coding languages — such as: Elixir, JavaScript and Python.”
 
-“We will compose some music – using a language called Ruby.”
+“We will compose some music — using a language called Ruby.”
 
 Abdallah looked confused: “Using a gemstone we can make music?!”
 
@@ -206,7 +206,7 @@ Sakura explained: “Actually Ruby is also a Coding language from Japan!”
 
 Abdallah smiled!
 
-“And – we will make a fun game – using a language called Rust.”
+“And — we will make a fun game — using a language called Rust.”
 
 Abdallah looked baffled: “Using rust on my bike to make games?!”
 
@@ -224,17 +224,17 @@ And this is how Abdallah and Tasnim started their learning journey with Coding.
 
 ## Introduction to Mathematics
 
-One day Abdallah and Tasnim – the friendly dragons – were out flying in their plane – over some remote islands in the middle of the ocean.
+One day Abdallah and Tasnim — the friendly dragons — were out flying in their plane — over some remote islands in the middle of the ocean.
 
-Tasnim was flying the plane – she had lots of experience with flying planes.
+Tasnim was flying the plane — she had lots of experience with flying planes.
 
-Abdallah was afraid of flying – but Tasnim had managed to convince him to fly.
+Abdallah was afraid of flying — but Tasnim had managed to convince him to fly.
 
 Tasnim landed on the beach of a most beloved island.
 
 “Let’s explore the island”, said Tasnim.
 
-As if by magic the old book suddenly opened and the most wondrous Compendium appeared – alongside another friendly dragon Akio.
+As if by magic the old book suddenly opened and the most wondrous Compendium appeared — alongside another friendly dragon Akio.
 
 Abdallah, Tasnim and Akio performed the traditional cute friendly dragon greeting.
 
@@ -280,7 +280,7 @@ The prices of all of the goods had gone up!
 
 As if by magic the book suddenly opened.
 
-The most beloved Compendium opened up and another friendly dragon – Sakura – had appeared.
+The most beloved Compendium opened up and another friendly dragon — Sakura — had appeared.
 
 Abdallah, Tasnim and Sakura performed the traditional cute friendly dragon greeting.
 
@@ -288,7 +288,7 @@ This greeting is a dance with lots of giggling and laughter.
 
 Abdallah and Tasnim fell down laughing from all of the silly whirling.
 
-Sakura said: “I am running a workshop on Blockchain – and – how to attach gold and silver coins to a blockchain.”
+Sakura said: “I am running a workshop on Blockchain — and — how to attach gold and silver coins to a blockchain.”
 
 Abdallah said: “What is a blockchain?”
 
@@ -298,7 +298,7 @@ Abdallah looked surprised. Tasnim had a habit of building a portfolio of blockch
 
 Tasnim explained: “When a central bank prints money it devalues the currency and therefore reduces our purchasing power. This means we can buy less goods with the same amount of money.”
 
-“However – Blockchain is based on a rigorous cryptographic algorithm based on sound mathematics.”
+“However — Blockchain is based on a rigorous cryptographic algorithm based on sound mathematics.”
 
 “Blockchain is an alternative monetary system, where you cannot simply print endless units of currency.”
 
