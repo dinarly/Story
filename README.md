@@ -20,6 +20,7 @@ The new components are as follows:
 * The React UI; [infatuAI-UI](https://github.com/infatuAI/infatuAI-UI) — user interface licensed under the AGPLv3.
 * The clusterable orchestrator; [Sheikah](https://github.com/dinarly/Sheikah) — Elixir/Phoenix LiveView and GenServer licensed under the AGPLv3.
 * The artwork; [Art](https://github.com/dinarly/Art) — animated artwork and initial rough sketches licensed under the Creative Commons Attribution ShareAlike.
+* The prototype hardware; [Sheikah-Slate](https://github.com/quantumsand/Sheikah-Slate) — an early hardware prototype for a clustered computer which uses and replicates pinned DINARLY e-learning resources via IPFS.
 
 These various components are being built or released into the open gradually.
 
