@@ -13,10 +13,10 @@ The plan is to have both interactive and pre-rendered visualisations — and als
 
 The target hardware for DINARLY Story will include low cost videogame consoles running Linux like the Raspberry Pi 4 and the PiBoy DMG — to more powerful Windows 10 videogame consoles — such as the AYA NEO (6-core AMD Ryzen 5 4500U Mobile Processor with Radeon Graphics).
 
-The original concept app was coded in C++ using Qt 5.14.2, but the app is now being actively rewritten in Rust. Once the Rust implementation is complete, the C++ prototype will be discarded. The C++ prototype remains for the purpose of testing.
+The original concept app is coded in C++ using Qt 5.14.2. For the future, Rust will be the focus, but at the present time the original concept app is still being used.
 
 The new components are as follows:
-* The Rust app; [infatuAI-Web](https://github.com/infatuAI/infatuAI-Web) — essentially a 3d web browser licensed under the MPLv2.
+* The DINARLY app; DINARLY — C++/Qt 5.14.2 app which will be released gradually in the future and licensed under the AGPLv3.
 * The React UI; [infatuAI-UI](https://github.com/infatuAI/infatuAI-UI) — user interface licensed under the AGPLv3.
 * The clusterable orchestrator; [Sheikah](https://github.com/dinarly/Sheikah) — Elixir/Phoenix LiveView and GenServer licensed under the AGPLv3.
 * The artwork; [Art](https://github.com/dinarly/Art) — animated artwork and initial rough sketches licensed under the Creative Commons Attribution ShareAlike.
