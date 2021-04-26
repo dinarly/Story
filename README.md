@@ -3,9 +3,9 @@ The DINARLY e-learning stories featuring Tasnim, Abdallah, Ai, Zhao, Sakura and 
 
 Available both as interactive DINARLY e-learning (3d or comic book modes) and also in e-book formats.
 
-The initial courses will be focused on: Artificial Intelligence, Quantum Mechanics, Coding, Mathematics, Blockchain, Cybersecurity, Semiconductors, Shakespeare, Judo, Conservation and Arabic Language & Literature.
+The initial courses will be focused on: Artificial Intelligence, Quantum Mechanics, Coding, Mathematics, Blockchain, Cybersecurity, Semiconductors, Biophysics, Shakespeare, Judo, Conservation and Arabic Language & Literature.
 
-Join Abdallah and Tasnim — the friendly dragons — on their learning journey as they overcome many challenges. Abdallah will master these subjects and overcome his learning difficulties, whilst Tasnim will refine her existing knowledge. Both friendly dragons will become titans in the fields of Artificial Intelligence, Quantum Mechanics, Coding, Mathematics, Blockchain, Cybersecurity, Semiconductors, Shakespeare, Judo, Conservation and Arabic Language & Literature.
+Join Abdallah and Tasnim — the friendly dragons — on their learning journey as they overcome many challenges. Abdallah will master these subjects and overcome his learning difficulties, whilst Tasnim will refine her existing knowledge. Both friendly dragons will become titans in the fields of Artificial Intelligence, Quantum Mechanics, Coding, Mathematics, Blockchain, Cybersecurity, Semiconductors, Biophysics, Shakespeare, Judo, Conservation and Arabic Language & Literature.
 
 The plan is to have both interactive and pre-rendered visualisations — and also — videogames. These will be implemented using WebAssembly using the Godot and Bevy game engines. Additionally, Blender 3d will be used for pre-rendered visuals.
 
