@@ -1,3 +1,5 @@
+[![qalbAI](img/heart-avatar.png)](https://github.com/qalbAI/Story)
+
 # QALB Story
 The QALB e-learning stories featuring Tasnim, Abdallah, Ai, Zhao, Sakura and Akio — the friendly dragons.
 
