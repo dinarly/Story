@@ -1,7 +1,7 @@
-# DINARLY Story
-The DINARLY e-learning stories featuring Tasnim, Abdallah, Ai, Zhao, Sakura and Akio — the friendly dragons.
+# QALB Story
+The QALB e-learning stories featuring Tasnim, Abdallah, Ai, Zhao, Sakura and Akio — the friendly dragons.
 
-Available both as interactive DINARLY e-learning (3d or comic book modes) and also in e-book formats.
+Available both as interactive QALB e-learning (3d or comic book modes) and also in e-book formats.
 
 The initial courses will be focused on: Artificial Intelligence, Quantum Mechanics, Coding, Mathematics, Blockchain, Cybersecurity, Semiconductors, Biophysics, Biochemistry, Shakespeare, Judo, Conservation and Arabic Language & Literature.
 
@@ -11,24 +11,21 @@ The plan is to have both interactive and pre-rendered visualisations — and als
 
 [![Interactive visualisations](/img/visualisations.jpg)](https://www.youtube.com/watch?v=XoGHKp3PiHQ "Interactive visualisations")
 
-The target hardware for DINARLY Story will include low cost videogame consoles running Linux like the Raspberry Pi 4 and the PiBoy DMG — to more powerful Windows 10 videogame consoles — such as the AYA NEO (6-core AMD Ryzen 5 4500U Mobile Processor with Radeon Graphics).
+The target hardware for QALB Story will include low cost videogame consoles running Linux like the Raspberry Pi 4 and the PiBoy DMG — to more powerful Windows 10 videogame consoles — such as the AYA NEO (6-core AMD Ryzen 5 4500U Mobile Processor with Radeon Graphics).
 
 The original concept app is coded in C++ using Qt 5.14.2. For the future, Rust will be the focus, but at the present time the original concept app is still being used.
 
 The new components are as follows:
-* The DINARLY app; DINARLY — C++/Qt 5.14.2 app which will be released gradually in the future and licensed under the AGPLv3.
-* The React UI; [infatuAI-UI](https://github.com/infatuAI/infatuAI-UI) — user interface licensed under the AGPLv3.
-* The clusterable orchestrator; [Sheikah](https://github.com/dinarly/Sheikah) — Elixir/Phoenix LiveView and GenServer licensed under the AGPLv3.
-* The artwork; [Art](https://github.com/dinarly/Art) — animated artwork and initial rough sketches licensed under the Creative Commons Attribution ShareAlike.
-* The prototype hardware; [Sheikah-Slate](https://github.com/quantumsand/Sheikah-Slate) — an early hardware prototype for a clustered computer which uses and replicates pinned DINARLY e-learning resources via IPFS.
+* The QALB app; QALB — C++/Qt 5.14.2 app which will be released gradually in the future and licensed under the AGPLv3.
+* The React UI; [qalbAI-UI](https://github.com/qalbAI/qalbAI-UI) — user interface licensed under the AGPLv3.
+* The clusterable orchestrator; Sheikah — Elixir/Phoenix LiveView and GenServer licensed under the AGPLv3.
+* The artwork; animated artwork and initial rough sketches licensed under the Creative Commons Attribution ShareAlike.
 
 These various components are being built or released into the open gradually.
 
-Within DINARLY all languages are treated equally by design.
+Within QALB all languages are treated equally by design.
 
 Once translations into other locales have been completed — they will be pinned to IPFS.
-
-If you wish to translate DINARLY into your locale please reach out to hello@drewpotter.com — especially Fus-ha Arabic (Modern Standard Arabic), Urdu and Japanese.
 
 ## Introduction
 One day Abdallah and Tasnim — the friendly dragons — were digging for treasure. They had managed to find a treasure chest.
@@ -45,9 +42,9 @@ Tasnim and Abdallah both said: “Bismillah”.
 
 As if by magic the book suddenly opened!
 
-The book said: “Welcome to DINARLY Story. This book of knowledge has been kept safe for a future generation who will restore justice in the world”.
+The book said: “Welcome to QALB Story. This book of knowledge has been kept safe for a future generation who will restore justice in the world”.
 
-Tasnim and Abdallah both said: “Woow!”
+Tasnim and Abdallah both said: “Wow!”
 
 They looked around to find that everything looked different. They were surrounded by knowledge and wisdom of previous generations. 
 
@@ -97,7 +94,7 @@ Abdallah and Tasnim looked in the lake to see the cute robot dog joyfully swimmi
 
 Ai explained: “My robot dog is designed to help rescue people in an emergency!”
 
-Abdallah and Tasnim said: “Woow! Artificial Intelligence is amazing!”
+Abdallah and Tasnim said: “Wow! Artificial Intelligence is amazing!”
 
 Ai said: “Would you both like to learn about Artificial Intelligence?”
 
@@ -213,7 +210,7 @@ Abdallah looked baffled: “Using rust on my bike to make games?!”
 
 Sakura explained: “Actually Rust is also a Coding language from San Francisco!”
 
-Abdallah and Tasnim both said: “Woow! Coding is amazing!”
+Abdallah and Tasnim both said: “Wow! Coding is amazing!”
 
 Sakura smiled: “Would you like to take my workshop?”
 
@@ -257,11 +254,11 @@ Tasnim explained: “Mathematics is a game. It allows us to solve many problems 
 
 Akio nodded.
 
-“On my crib sheet, we will learn about the Mathematics which you will need for the DINARLY Story courses covering Artificial Intelligence, Quantum Mechanics, Coding and Blockchain.”
+“On my crib sheet, we will learn about the Mathematics which you will need for the QALB Story courses covering Artificial Intelligence, Quantum Mechanics, Coding and Blockchain.”
 
 “Also on this remote island, we will apply Mathematics to navigate, to find food, using only this radio and Mathematics.”
 
-Abdallah and Tasnim said: “Woow. Mathematics is amazing!”
+Abdallah and Tasnim said: “Wow. Mathematics is amazing!”
 
 Abdallah said: “What is this radio?”
 
@@ -363,7 +360,7 @@ Tasnim explained: “The message on your game is a scam! A bad dragon is trying 
 
 Ai said: “Do not worry Abdallah — I will teach you both about Cybersecurity — and — how to defend yourselves from cyber attacks.”
 
-Abdallah and Tasnim shouted: “Woow! Cybersecurity is awesome! Please teach us!”
+Abdallah and Tasnim shouted: “Wow! Cybersecurity is awesome! Please teach us!”
 
 Ai said: “We will begin by learning about packets of data.”
 
@@ -403,7 +400,7 @@ Zhao explained: “The design of my computer is eco-friendly and modular so that
 
 “I am building this computer so that all dragons around the world can access learning resources regardless of whether they have a good internet connection or not! Semiconductors are vital to achieve this goal!”
 
-Abdallah and Tasnim said: “Woow! Semiconductors are fabulous!”
+Abdallah and Tasnim said: “Wow! Semiconductors are fabulous!”
 
 Zhao grinned: “Would you like to learn about semiconductors?”
 
