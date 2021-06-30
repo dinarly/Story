@@ -13,7 +13,7 @@ The plan is to have both interactive and pre-rendered visualisations — and als
 
 [![Interactive visualisations](/img/visualisations.jpg)](https://www.youtube.com/watch?v=XoGHKp3PiHQ "Interactive visualisations")
 
-The target hardware for QALB Story will include low cost videogame consoles running Linux like the Raspberry Pi 4 and the PiBoy DMG — to more powerful Windows 10 videogame consoles — such as the AYA NEO (6-core AMD Ryzen 5 4500U Mobile Processor with Radeon Graphics).
+The target hardware for QALB Story will include low cost videogame consoles running Linux like the Raspberry Pi 4 and the PiBoy DMG — to more powerful QALB OS devices.
 
 The original concept app is coded in C++ using Qt 5.14.2. For the future, Rust will be the focus, but at the present time the original concept app is still being used.
 
