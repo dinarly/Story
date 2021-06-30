@@ -144,7 +144,7 @@ Ai nodded in agreement: “Exactly!”
 
 Abdallah and Safiyyah both smiled.
 
-“Next we will learn what happens inside the neuron.”
+Ai said: “Next we will learn what happens inside the neuron.”
 
 ## Introduction to Quantum Mechanics
 
