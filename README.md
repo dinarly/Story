@@ -106,6 +106,46 @@ Ai smiled delightfully and said: “We will begin by learning about the structur
 
 And this is how Abdallah and Safiyyah started their learning journey with Artificial Intelligence.
 
+### Neurons
+
+Ai opened up her satchel to reveal a magical projector.
+
+As if by magic a wonderful collection of neurons were visible.
+
+Ai said: “Here we have the structure of some of the most delightful neurons.”
+
+Abdallah and Safiyyah said: “Wow”
+
+Abdallah said: “How does it work?”
+
+At that precise moment — the cute robot dog — covered in water — came running along and shook the water all over Abdallah and Safiyyah.
+
+Ai said: “Inside this cute robot dog —  I have modelled this structure.”
+
+“Let me explain…”
+
+“Between two neurons there is a gap — called a synapse.”
+
+“A nerve impulse is sent through the neuron.”
+
+“This is the Axon, and these are the Dendrites.”
+
+Abdallah interrupted: “If there is a gap between the neurons — how does the signal continue across that gap?”
+
+Safiyyah shouted: “I know!”
+
+Abdallah looked surprised.
+
+Safiyyah explained: “The signal causes chemicals to be released which diffuse across the synapse.”
+
+Ai nodded in agreement: “Exactly!”
+
+“Therefore — the signal can travel along many neurons.”
+
+Abdallah and Safiyyah both smiled.
+
+“Next we will learn what happens inside the neuron.”
+
 ## Introduction to Quantum Mechanics
 
 One day Abdallah and Safiyyah — the friendly dragons — were in the forest — looking up at the night sky.
