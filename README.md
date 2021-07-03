@@ -154,8 +154,6 @@ As if by magic the picnic hamper opened up — with a beautiful assortment of im
 
 These cupcakes and lollipops were floating in some sort of structure.
 
-Ai explained: “Here we have a collection of neurons represented by delicious cupcakes.”
-
 Abdallah and Safiyyah both grinned.
 
 Ai continued: “We have layers of neurons — each represented by delicious cupcakes.”
