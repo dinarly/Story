@@ -19,7 +19,7 @@ The original concept app is coded in C++ using Qt 5.14.2. For the future, Rust w
 
 The new components are as follows:
 * The QALB app; QALB — C++/Qt 5.14.2 app which will be released gradually in the future and licensed under the AGPLv3.
-* The React UI; [qalbAI-UI](https://github.com/qalbAI/qalbAI-UI) — user interface licensed under the AGPLv3.
+* The React UI; qalbAI-UI — user interface licensed under the AGPLv3.
 * The clusterable orchestrator; Sheikah — Elixir/Phoenix LiveView and GenServer licensed under the AGPLv3.
 * The artwork; animated artwork and initial rough sketches licensed under the Creative Commons Attribution ShareAlike.
 
