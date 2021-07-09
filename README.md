@@ -192,6 +192,50 @@ Abdallah and Safiyyah each took a delightful cupcake.
 
 Ai smiled: “Next, we shall learn about the input values — in preparation for calculating the weighted sum of inputs.”
 
+### Inside the neuron — input values
+
+Safiyyah and Abdallah had finished joyfully eating their delicious cupcakes.
+
+The cute robot dog was taking a nap.
+
+At this precise moment Ai said: “Now — before we can perform any calculations inside our neurons — we must first transform the input values.”
+
+Abdallah said: “How do we transform them?”
+
+Safiyyah said: “I know!”
+
+Abdallah looked perplexed.
+
+Safiyyah explained: “We have to make sure the input values have a similar size or magnitude.”
+
+Ai said: “Exactly!!”
+
+Abdallah said: “Why?!”
+
+Safiyyah interrupted: “It is easier for the neural network to process the incoming values if they have a similar sort of value.”
+
+Ai nodded in agreement: “We must normalise or standardise the input values.”
+
+Abdallah smiled!
+
+“We will learn how to do this as we progress on our learning journey.”
+
+“For now — you also need to know that the input values are independent variables.”
+
+Safiyyah interrupted: “Independent variables — meaning that their variation does not depend on other variables?”
+
+Ai said: “Exactly!”
+
+Abdallah looked confused: “So you mean to say — that the variation of the input values — do not depend on other input values?”
+
+Ai beamed: “Yes! Exactly!!”
+
+The cute robot dog woke up from having a dreamy power nap.
+
+Safiyyah and Abdallah both smiled.
+
+Ai said: “Next we will perform an actual example calculation on the input values — by calculating the weighted sum for a most beloved neuron.”
+
 ## Introduction to Quantum Mechanics
 
 One day Abdallah and Safiyyah — the friendly dragons — were in the forest — looking up at the night sky.
