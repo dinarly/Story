@@ -128,7 +128,7 @@ Ai said: “Inside this cute robot dog —  I have modelled this structure.”
 
 “A nerve impulse is sent through the neuron.”
 
-“This is the Axon, and these are the Dendrites.”
+“This is the Axon — the transmitter, and these are the Dendrites — the receivers.”
 
 Abdallah interrupted: “If there is a gap between the neurons — how does the signal continue across that gap?”
 
