@@ -274,7 +274,7 @@ Ai nodded in agreement: “Exactly! In the case of this function — the Thresho
 
 “If the total value of the weighted sum is higher or equal to the threshold of zero — then the Threshold function will output a value of one.”
 
-“However, if the value is less than the threshold of zero — the function will output a value of zero.”
+“However, if the value is less than the threshold of zero — the Threshold function will output a value of zero.”
 
 Abdallah said: “This is easy!! And the output value is transmitted to the next neuron?”
 
