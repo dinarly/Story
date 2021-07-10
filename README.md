@@ -258,7 +258,7 @@ Ai pointed towards the fireflies: “Here we have a graph represented by firefli
 
 All of a sudden there was another whizzing — popping sound.
 
-As if by magic a line appeared onto the graph.
+As if by magic a line appeared on the graph.
 
 Ai explained: “This graph shows the Activation Function known as the Threshold function.”
 
