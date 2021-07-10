@@ -226,7 +226,7 @@ Safiyyah interrupted: “Independent variables — meaning that their variation 
 
 Ai said: “Exactly!”
 
-Abdallah looked confused: “So you mean to say — that the variation of the input values — do not depend on other input values?”
+Abdallah looked confused: “So you mean to say — that the variation of the input values — does not depend on other input values?”
 
 Ai beamed: “Yes! Exactly!!”
 
