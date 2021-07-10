@@ -190,7 +190,7 @@ Ai said: “Yes of course!”
 
 Abdallah and Safiyyah each took a delightful cupcake.
 
-Ai smiled: “Next, we shall learn about the input values — in preparation for calculating the weighted sum of inputs.”
+Ai smiled: “Next, we shall learn about the input values.”
 
 ### Inside the neuron — input values
 
@@ -234,7 +234,7 @@ The cute robot dog woke up from having a dreamy power nap.
 
 Safiyyah and Abdallah both smiled.
 
-Ai said: “Next we will perform an actual example calculation on the input values — by calculating the weighted sum for a most beloved neuron.”
+Ai said: “Next we will learn about the Activation Function.”
 
 ## Introduction to Quantum Mechanics
 
