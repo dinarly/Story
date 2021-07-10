@@ -234,7 +234,7 @@ The cute robot dog woke up from having a dreamy power nap.
 
 Safiyyah and Abdallah both smiled.
 
-Ai said: “Next we will learn about the Activation Function.”
+Ai said: “Next we will learn about the Activation Function — starting with the Threshold function.”
 
 ## Introduction to Quantum Mechanics
 
